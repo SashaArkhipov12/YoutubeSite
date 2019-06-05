@@ -1,0 +1,21 @@
+.glava{
+	height:800px;
+}
+.top{
+	height: 50px;
+}
+.info{
+	height: 150px;
+}
+.comment{
+	height: 75px;
+}
+.video{
+	margin-top: 10px;
+	height: 150px;
+}
+.button{
+	padding-left: 20px;
+	padding-top: -30px;
+}
+
